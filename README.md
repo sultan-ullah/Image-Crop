@@ -12,3 +12,5 @@ Click and drag on the image to create a crop area
 - Modifying DOM elements through JavaScript
 
 ## Live Demo
+
+https://sultan-ullah.github.io/Image-Crop/
