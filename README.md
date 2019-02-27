@@ -13,4 +13,4 @@ Click and drag on the image to create a crop area
 
 ## Live Demo
 
-https://sultan-ullah.github.io/Image-Crop/
+https://sultan-ullah.github.io/image-crop/
