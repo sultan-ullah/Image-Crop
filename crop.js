@@ -30,11 +30,11 @@ onmousemove = event => {
 
 // make the div hidden again and draw the cropped image area
 onmouseup = event => {
-    div.hidden = 1;
-    let left = parseInt(div.style.left, 10)
-    let top = parseInt(div.style.top, 10)
-    let width = parseInt(div.style.width, 10)
-    let height = parseInt(div.style.height, 10)
+    div.style.display = 'none';
+    let left = parseInt(div.style.left, 10);
+    let top = parseInt(div.style.top, 10);
+    let width = parseInt(div.style.width, 10);
+    let height = parseInt(div.style.height, 10);
     if (width != height) {
         draw(left, top, width, height);
     }
