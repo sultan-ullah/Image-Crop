@@ -2,7 +2,7 @@
 
 A way to crop images on a website using HTML5, CSS3, and JavaScript
 
-## How it Works
+## How It Works
 
 Click and drag on the image to create a crop area
 
